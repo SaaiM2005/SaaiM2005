@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">MYSELF SAAI MAHAJAN<br>PURSUING AI/ML</h1>
+<h1 align="center">MYSELF SAI MAHAJAN<br>PURSUING AI/ML</h1>
 
 ###
 
