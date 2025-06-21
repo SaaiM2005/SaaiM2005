@@ -15,8 +15,6 @@
 
 ###
 
-<h1 align="center">MYSELF SAI MAHAJAN<br>PURSUING AI/ML</h1>
-
 ###
 
 <h2 align="center">🛠 Language and tools</h2>
